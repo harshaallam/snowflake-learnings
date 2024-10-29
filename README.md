@@ -6,6 +6,8 @@ Welcome to the **Snowflake Learnings** repository! This repository is designed t
 
 This repository contains various code files and data source files specifically curated to provide a practical learning experience in Snowflake. By exploring and executing the code in each module, you will gain insights into how Snowflake handles data warehousing, as well as valuable skills in optimizing, managing, and querying data within Snowflake.
 
+To access a free s3 bucket refer to **bucketsnowflakes3**
+
 ### Key Topics Covered
 
 - **Creation of dimension and fact tables**
